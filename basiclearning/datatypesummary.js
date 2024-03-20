@@ -18,9 +18,8 @@ console.log(id === anotherId);
 
 
 
-// Reference (Non primitive)
 
-// Array, Objects, Functions
+
 
 const heros = ["shaktiman", "naagraj", "doga"];
 let myObj = {
@@ -48,3 +47,8 @@ console.log(typeof anotherId);
 // number - return number
 // Boolean - return Boolean 
 // symbol - return symbol
+
+// Stack and heap storage 
+//  Primitive -> 7 types : String, Number, Boolearn, null, undefined, Symbol, BigInt => uses stack
+
+// Reference (Non primitive)-> Array, Objects, Functions => heap .
