@@ -42,5 +42,5 @@ console.log(str1.startsWith('Sat'));
 console.log(str1.startsWith('Sat', 2));
 // Expected output: false
 
-// for understanding the differnt prototype present in strings 
+// for understanding the differnt prototype(properties/functions) present in strings 
 // go through this link -> https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/String/startsWith
