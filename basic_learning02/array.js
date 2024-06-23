@@ -39,3 +39,4 @@ console.log("B ", myArr);
 const myn2 = myArr.splice(1, 3)
 console.log("C ", myArr); // splice include last index remove those element from the original array
 console.log(myn2);
+// read it form mdn
